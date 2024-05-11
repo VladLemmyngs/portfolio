@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.link-header{
+    color: white;
+   
+}
+.link-nav{
+    color: white;   
+    padding: 10px;
+}
+header{
+background-color: brown;
+text-align: center;
+color: rgb(8, 0, 0);
+padding: 10px;
+}
+nav{
+background-color: black;
+color: white;
+text-align: center;
+padding: 5px;
+}
+h1{
+background-color: aquamarine;
+color: blueviolet;
+text-align:center;
+
+}
+ol{
+color:blue;
+background-color:orange ;
+}
+h2{
+color:blueviolet;
+background-color: rgb(42, 165, 83);
+
+}
+
+
+
+
+
+
+
